@@ -1,0 +1,4 @@
+MainPackage=I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\Talk It.WindowsPhone_1.1.0.0_Bundle\Talk It.WindowsPhone_1.1.0.0_AnyCPU.appx
+SymbolPackage=I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\AppPackages\Talk It.WindowsPhone_1.1.0.0_Test\Talk It.WindowsPhone_1.1.0.0_AnyCPU.appxsym
+ResourcePack=I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\Talk It.WindowsPhone_1.1.0.0_Bundle\Talk It.WindowsPhone_1.1.0.0_scale-100.appx
+ResourcePack=I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\Talk It.WindowsPhone_1.1.0.0_Bundle\Talk It.WindowsPhone_1.1.0.0_scale-140.appx

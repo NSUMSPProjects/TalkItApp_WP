@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KAMLAPC</Machine>
+    <WindowsUser>Shawon</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>66ea71c1-741a-42f5-a5e6-fb59cdd6b1f7</PackageIdentityName>
+    <IntermediateOutputPath>I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\Talk It.WindowsPhone.exe">
+      <PackagePath>Talk It.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\AboutPage.xbf">
+      <PackagePath>AboutPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\PrivacyShowerPage.xbf">
+      <PackagePath>PrivacyShowerPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\Talk It.WindowsPhone.xr.xml">
+      <PackagePath>Talk It.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

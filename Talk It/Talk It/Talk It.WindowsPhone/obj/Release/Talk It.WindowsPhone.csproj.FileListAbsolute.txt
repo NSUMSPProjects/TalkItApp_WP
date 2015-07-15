@@ -1,0 +1,42 @@
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\App.xbf
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\AboutPage.xbf
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\MainPage.xbf
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\PrivacyShowerPage.xbf
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\Talk It.WindowsPhone.xr.xml
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\Talk It.WindowsPhone.exe
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\Talk It.WindowsPhone.pdb
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\resources.pri
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\AppxManifest.xml
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\bin\Release\Talk It.WindowsPhone.build.appxrecipe
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\App.g.i.cs
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\App.g.cs
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\AboutPage.g.i.cs
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\AboutPage.g.cs
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\MainPage.g.i.cs
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\MainPage.g.cs
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\PrivacyShowerPage.g.i.cs
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\PrivacyShowerPage.g.cs
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\App.xaml
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\AboutPage.xaml
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\MainPage.xaml
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\PrivacyShowerPage.xaml
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\App.xbf
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\AboutPage.xbf
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\MainPage.xbf
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\PrivacyShowerPage.xbf
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\Talk It.WindowsPhone.exe
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\Talk It.WindowsPhone.pdb
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\priconfig.xml
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\priconfig.xml.intermediate
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\layout.resfiles
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\layout.resfiles.intermediate
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\resources.resfiles
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\resources.resfiles.intermediate
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\pri.resfiles
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\pri.resfiles.intermediate
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\qualifiers.txt
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\ProjectArchitectures.txt

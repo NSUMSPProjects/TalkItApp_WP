@@ -1,0 +1,10 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\filemap.scale-140.pri"			"resources.pri"
+"I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\PackageLayout\Assets\SplashScreen.scale-140.png"			"Assets\SplashScreen.scale-140.png"
+"I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\PackageLayout\Assets\SmallLogo.scale-140.png"			"Assets\SmallLogo.scale-140.png"
+"I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\PackageLayout\Assets\Logo.scale-140.png"			"Assets\Logo.scale-140.png"
+"I:\Coding\App Dev\TalkItApp_WP\Talk It\Talk It\Talk It.WindowsPhone\obj\Release\PackageLayout\Assets\BadgeLogo.scale-140.png"			"Assets\BadgeLogo.scale-140.png"
