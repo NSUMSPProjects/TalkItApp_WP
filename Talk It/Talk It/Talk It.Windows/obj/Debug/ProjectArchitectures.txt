@@ -1,0 +1,1 @@
+I:\App Dev\Talk It\Talk It\Talk It.Windows\Talk It.Windows.csproj;neutral

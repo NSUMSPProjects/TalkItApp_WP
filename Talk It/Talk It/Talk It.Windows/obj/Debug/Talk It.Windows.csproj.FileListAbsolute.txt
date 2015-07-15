@@ -1,0 +1,32 @@
+I:\App Dev\Talk It\Talk It\Talk It.Windows\bin\Debug\App.xbf
+I:\App Dev\Talk It\Talk It\Talk It.Windows\bin\Debug\MainPage.xbf
+I:\App Dev\Talk It\Talk It\Talk It.Windows\bin\Debug\Talk It.Windows.xr.xml
+I:\App Dev\Talk It\Talk It\Talk It.Windows\bin\Debug\Talk It.Windows.exe
+I:\App Dev\Talk It\Talk It\Talk It.Windows\bin\Debug\Talk It.Windows.pdb
+I:\App Dev\Talk It\Talk It\Talk It.Windows\bin\Debug\resources.pri
+I:\App Dev\Talk It\Talk It\Talk It.Windows\bin\Debug\AppxManifest.xml
+I:\App Dev\Talk It\Talk It\Talk It.Windows\bin\Debug\Talk It.Windows.build.appxrecipe
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\App.g.i.cs
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\App.g.cs
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\MainPage.g.i.cs
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\MainPage.g.cs
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\XamlTypeInfo.g.cs
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\App.xaml
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\MainPage.xaml
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\App.xbf
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\MainPage.xbf
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\XamlSaveStateFile.xml
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\Talk It.Windows.exe
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\Talk It.Windows.pdb
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\priconfig.xml
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\priconfig.xml.intermediate
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\layout.resfiles
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\layout.resfiles.intermediate
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\resources.resfiles
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\resources.resfiles.intermediate
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\pri.resfiles
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\pri.resfiles.intermediate
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\qualifiers.txt
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\qualifiers.txt.intermediate
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+I:\App Dev\Talk It\Talk It\Talk It.Windows\obj\Debug\ProjectArchitectures.txt
