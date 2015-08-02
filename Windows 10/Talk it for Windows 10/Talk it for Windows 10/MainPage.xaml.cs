@@ -26,5 +26,10 @@ namespace Talk_it_for_Windows_10
         {
             this.InitializeComponent();
         }
+
+        private void talkItButtonTap(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
